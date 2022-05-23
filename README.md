@@ -82,6 +82,6 @@ There will always be room for improvement. I will continue to work on challenges
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/muubaraq)
-- Twitter - [@yourusername](https://www.twitter.com/muubaraq)
+- Frontend Mentor - [@muubaraq](https://www.frontendmentor.io/profile/muubaraq)
+- Twitter - [@muubaraq](https://www.twitter.com/muubaraq)
 
