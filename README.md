@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL here](https://github.com/muubaraq/3-column-preview-card.git)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://muubaraq.github.io/3-column-preview-card/)
 
 ## My process
 
